@@ -9,7 +9,7 @@
 
 ## Course Description
 
-The goal of this course is to produce a fantastic Data Science Portfolio Project. 
+The goal of this course is to produce a fantastic Data Science Portfolio Project.
 The course is open to Seniors of any concentration who have taken DS-2.1 (Machine Learning)
 
 
@@ -19,7 +19,7 @@ The process of building a successful portfolio project will transform you into a
 
 ## Prerequisites:
 
-- [DS-1.1](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning)
+- [DS-1.1](https://github.com/Make-School-Courses/DS-1.1-Data-Analysis)
 - [DS-2.1](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning)
 
 ## Course Specifics
@@ -139,6 +139,7 @@ Any additional resources you may need (online books, etc.) can be found here. Yo
 - [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
 - [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
 - [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
-- [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
+- [For Academic Accommodations, complete this intake form](https://goo.gl/forms/cbfEaxLkutwsYRHo1)
+- [For Services and accommodations we provide for students, contact Dr. Michelle Lessly Blackburn, Director of Student Affairs](michelle.blackburn@makeschool.com)
 - [Online Learning Tutorial](https://make.sc/online-learning-tutorial) - How to succeed in online learning at Make School
 - [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
