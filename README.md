@@ -6,22 +6,23 @@
 
 # DS-2.9 Technical Seminar
 
+
 ## Course Description
+
+The goal of this course is to produce a fantastic Data Science Portfolio Project. 
 The course is open to Seniors of any concentration who have taken DS-2.1 (Machine Learning)
-The goal of this course is to produce a fantastic Data Science Portfolio Project.
 
 
 ### Why should I take this course?
 
 The process of building a successful portfolio project will transform you into a real data scientist. You will become something of an expert on your chosen problem. You will encounter, struggle with, and learn how to overcome real world problems similar to those you might face at your first job. Your completed project will showcase your skills and demonstrate your ability as a data scientist to prospective employers.
 
-## Prerequisites:  
+## Prerequisites:
 
 - [DS-1.1](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning)
 - [DS-2.1](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning)
 
 ## Course Specifics
-
 
 **Course Delivery**: online  | 7 weeks | 13 sessions
 
@@ -97,7 +98,7 @@ Your Gradescope login is your Make School email, and your password can be change
 ### Tutorials
 
 
-### Projects
+### The Portfolio Project
 
 - [Project Template - Use to build your own project spec](https://github.com/Make-School-Labs/Project-Template)
 - Students can optionally add value to their portfolio project by writing a blog article and publishing in [Medium](https://medium.com/), [Towards Data Science](https://towardsdatascience.com/), [Analytics Vidhya](https://www.analyticsvidhya.com/), [KDnuggets](https://www.kdnuggets.com/), or another suitable online magazine.
@@ -106,7 +107,7 @@ Your Gradescope login is your Make School email, and your password can be change
 
 To pass this course you must meet the following requirements:
 
-- Complete the Portfoliao Project with a passing grade according to the associated rubric
+- Complete the Portfolio Project with a passing grade according to the associated rubric
 - Complete all required Assignments and Quizzes with a passing grade
 - One Quiz or Assignment may be dropped
 - Actively participate in class and abide by the attendance policy
