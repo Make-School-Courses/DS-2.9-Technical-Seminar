@@ -6,8 +6,6 @@
 
 # DS-2.9 Technical Seminar
 
-### [Reveal Slide Instructions](./Reveal/README.md)
-
 ## Course Description
 The course is open to Seniors of any concentration who have taken DS-2.1 (Machine Learning)
 The goal of this course is to produce a fantastic Data Science Portfolio Project.
@@ -19,8 +17,8 @@ The process of building a successful portfolio project will transform you into a
 
 ## Prerequisites:  
 
-- [DS-1.1]()
-- [DS-2.1]()
+- [DS-1.1](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning)
+- [DS-2.1](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning)
 
 ## Course Specifics
 
@@ -31,16 +29,12 @@ The process of building a successful portfolio project will transform you into a
 
 ## Learning Outcomes
 
-### **[INSTRUCTOR NOTE: PLEASE LIST (3-5) LEARNING OUTCOMES]**
-
-By the end of the course, you will be able to ...
-Each student will
+By the end of the course, each student will
 1. Explore an industry-relevant topic in Data Science in depth
 1. Build a working portfolio project in their chosen topic area showcasing their Data Science skills
 1. Present weekly project updates to their classmates, so that the class learns from and helps each other 
 1. Publish the project to a git repo with a complete record of commits.
-1. Write a detailed description of the project as you would explain it to a classmate, in the README.md file
-1. Optionally add value to their portfolio project by writing a blog article and publishing in [Medium](https://medium.com/), [Towards Data Science](https://towardsdatascience.com/), [Analytics Vidhya](https://www.analyticsvidhya.com/), [KDnuggets](https://www.kdnuggets.com/), or another suitable online magazine.
+1. Write a detailed description of the project in the README.md file
 
 
 ## Schedule
@@ -106,13 +100,14 @@ Your Gradescope login is your Make School email, and your password can be change
 ### Projects
 
 - [Project Template - Use to build your own project spec](https://github.com/Make-School-Labs/Project-Template)
-
+- Students can optionally add value to their portfolio project by writing a blog article and publishing in [Medium](https://medium.com/), [Towards Data Science](https://towardsdatascience.com/), [Analytics Vidhya](https://www.analyticsvidhya.com/), [KDnuggets](https://www.kdnuggets.com/), or another suitable online magazine.
 
 ## Evaluation
 
 To pass this course you must meet the following requirements:
 
-- Complete the Project with a passing grade according to the associated rubric- Complete all required Assignments and Quizzes with a passing grade
+- Complete the Portfoliao Project with a passing grade according to the associated rubric
+- Complete all required Assignments and Quizzes with a passing grade
 - One Quiz or Assignment may be dropped
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
@@ -124,16 +119,9 @@ Any additional resources you may need (online books, etc.) can be found here. Yo
 - [make.sc/library](http://make.sc/library)
 - [Awesome Data Science 2021](https://docs.google.com/document/d/1vGG0Q5t_aVZ6VaSUfDnfnZXlqajFU5Ji-TXAIgpYJT8/edit?usp=sharing)
 
-## Interview Topics
+## Data Science Technical Interview Topics Covered in this course
 
-Write what topics your course covers that students may encounter in a technical interview.
-Choose from the following sub-topics (pick all that apply):
-
-### Data Science
-
-Example topics:
-
-- Machine Learning and Deep Learning algorithms
+- Machine Learning and Deep Learning Algorithms
 - Data Exploration and Visualization
 - Model Selection and Validation
 - Feature Engineering
