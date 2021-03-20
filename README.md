@@ -9,8 +9,7 @@
 
 ## Course Description
 
-The goal of this course is to produce a fantastic Data Science Portfolio Project.
-
+The goal of this course is to produce a fantastic, well-documented Data Science Portfolio Project.
 The course is open to Seniors of any concentration who have taken DS-2.1 (Machine Learning)
 
 
