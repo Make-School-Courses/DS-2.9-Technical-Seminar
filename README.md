@@ -12,20 +12,24 @@
 The goal of this course is to produce a fantastic Data Science Portfolio Project.
 The course is open to Seniors of any concentration who have taken DS-2.1 (Machine Learning)
 
+
 ### Why should I take this course?
 
 The process of building a successful portfolio project will transform you into a real data scientist. You will become an expert on your chosen problem, and along the way you will encounter, struggle with, and learn how to overcome real world problems similar to those you might face at your first job. Your completed project will showcase your skills and demonstrate your ability as a data scientist to the world and to prospective employers.
+
 
 ## Prerequisites:
 
 - [DS-1.1](https://github.com/Make-School-Courses/DS-1.1-Data-Analysis)
 - [DS-2.1](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning)
 
+
 ## Course Specifics
 
 **Course Delivery**: online  | 7 weeks | 13 sessions
 
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours.
+
 
 ## Learning Outcomes
 
@@ -44,7 +48,6 @@ By the end of the course, each student will
 **Class Times:** Tuesday and Thursday at 2:45–5:30pm (13 class sessions)
 <!-- tabs:start -->
 <!-- omit in toc -->
-
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Tue, Mar 30                | [Lesson 1] |
@@ -61,7 +64,6 @@ By the end of the course, each student will
 | 11 |  Thu, May 6                 | [Lesson 11] |
 | 12 |  Tue, May 11                | [Lesson 12] |
 | 13 |  Thu, May 13                | Final Exam/Presentations |
-
 <!-- tabs:end -->
 
 
@@ -82,10 +84,7 @@ By the end of the course, each student will
 [Lesson 13]: Lessons/Lesson13.md
 
 
-## Assignment Schedule
-
-
-## Class Assignments
+## Assignment Submissions
 
 We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
 
@@ -94,13 +93,11 @@ As soon as grades are posted, you will be notified immediately so that you can l
 Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
 
 
-### Tutorials
-
-
 ### The Portfolio Project
 
 - [Project Template - Use to build your own project spec](https://github.com/Make-School-Labs/Project-Template)
 - Students can optionally add value to their portfolio project by writing a blog article and publishing in [Medium](https://medium.com/), [Towards Data Science](https://towardsdatascience.com/), [Analytics Vidhya](https://www.analyticsvidhya.com/), [KDnuggets](https://www.kdnuggets.com/), or another suitable online magazine.
+
 
 ## Evaluation
 
@@ -112,22 +109,24 @@ To pass this course you must meet the following requirements:
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
+
+## Data Science Technical Interview Topics Covered in this course
+
+- Data Exploration and Visualization
+- Data Cleaning, Manipulation and Preprocessing
+- Feature Engineering
+- Machine Learning and Deep Learning Algorithms
+- Model training
+- Hyperparameter Tuning
+- Model Selection and Validation
+
+
 ##  Information Resources
 
 Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
 
 - [make.sc/library](http://make.sc/library)
 - [Awesome Data Science 2021](https://docs.google.com/document/d/1vGG0Q5t_aVZ6VaSUfDnfnZXlqajFU5Ji-TXAIgpYJT8/edit?usp=sharing)
-
-## Data Science Technical Interview Topics Covered in this course
-
-- Machine Learning and Deep Learning Algorithms
-- Data Exploration and Visualization
-- Model Selection and Validation
-- Feature Engineering
-- Model training
-- Hyperparameter Tuning
-- Data Cleaning and Data Munging
 
 
 ## Make School Course Policies
