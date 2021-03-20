@@ -39,7 +39,7 @@ By the end of the course, each student will
 1. Build a working portfolio project in their chosen topic area showcasing their Data Science skills
 1. Present weekly project updates to their classmates, so that the class learns from and helps each other 
 1. Publish the project to a git repo with a complete record of commits.
-1. Write a detailed description of the project in the README.md file
+1. Write a detailed description documenting the project in the README.md file
 
 
 ## Schedule
