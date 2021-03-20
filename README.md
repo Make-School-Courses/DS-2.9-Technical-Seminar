@@ -12,10 +12,9 @@
 The goal of this course is to produce a fantastic Data Science Portfolio Project.
 The course is open to Seniors of any concentration who have taken DS-2.1 (Machine Learning)
 
-
 ### Why should I take this course?
 
-The process of building a successful portfolio project will transform you into a real data scientist. You will become something of an expert on your chosen problem. You will encounter, struggle with, and learn how to overcome real world problems similar to those you might face at your first job. Your completed project will showcase your skills and demonstrate your ability as a data scientist to prospective employers.
+The process of building a successful portfolio project will transform you into a real data scientist. You will become an expert on your chosen problem, and along the way you will encounter, struggle with, and learn how to overcome real world problems similar to those you might face at your first job. Your completed project will showcase your skills and demonstrate your ability as a data scientist to the world and to prospective employers.
 
 ## Prerequisites:
 

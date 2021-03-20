@@ -12,6 +12,5 @@
   - [Lesson 10](Lessons/Lesson1.md)
   - [Lesson 11](Lessons/Lesson1.md)
   - [Lesson 12](Lessons/Lesson1.md)
-  - Final Class (Presentations, Demos, etc)
-  - Final Exam/Presentations
+  - [Lesson 12](Lessons/Lesson1.md)
 - **[Project](Assignments/Sample_Project.md)**
