@@ -20,8 +20,8 @@ Building a successful portfolio project will transform you into a real Data Scie
 
 ## Prerequisites:
 
-- [DS-1.1](https://github.com/Make-School-Courses/DS-1.1-Data-Analysis)
-- [DS-2.1](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning)
+- Senior standing
+- Completion of two DS-2.x courses
 
 
 ## Course Specifics
@@ -106,8 +106,8 @@ To pass this course you must meet the following requirements:
 - Complete the Portfolio Project with a passing grade according to the associated rubric
 - Complete all required Assignments and Quizzes with a passing grade
 - One Quiz or Assignment may be dropped
-- Actively participate in class and abide by the attendance policy
-- Make up all classwork from all absences
+- Actively participate in class and abide by the [Attendance Policy](https://make.sc/attendance-policy)
+- Make up classwork from all absences
 
 
 ## Data Science Technical Interview Topics Covered in this course
