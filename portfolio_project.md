@@ -36,31 +36,30 @@ From the day this project is assigned, you will have 6 weeks to complete this pr
 - Class 11:
   Evaluate the Final Model on the test data
   Optionally complete model interpretability experiments
-- Class 12: Complete the project writeup and submit
+- Class 12: Complete the project code and writeup and submit
 - Class 13: Present your project in class
 
 
-### Phases and Deadlines
-Deadlines of deliverables for the project, broken up by phases. Example given below:
+## Phases and Deadlines
+Deadlines of deliverables for the project, broken up by phases.
 
-- **Phase 1:** Proposal - **Due Day 3 @ 11:00pm.**
+- **Phase 1:** Proposal - Due Day 3 @ 11:00pm.
+  - Deliverables:
+    - Public GitHub Repository Link
+    - README.md in the repo with proposal. The README.md file will contain the writeup of your project
+  - Approval: Instructor will approve projects by start of class on Day 4.
+- **Phase 2:** Data Exploration, Visualization, Preprocessing - Due Day 6 @ 11:00pm.
+  - **Deliverables:**
+    - Colab notebook with code and README file with writeup, completed through Data Exploration, Visualization, Preprocessing
+- **Phase 3:** Modeling and Validation - Due Day 8 @ 11:00pm.
+  - **Deliverables:**
+    - Colab notebook with code and README file with writeup, completed through Modeling and Validatio
+- **Phase 4:**  Hyperparameter tuning - Due Day 10 @ 11:00pm.
+  - **Deliverables:**
+    - Colab notebook with code and README file with writeup, completed through hyperparameter tuning
+- **Phase 5:**  Writeup - Due Day 12 @ 11:00pm.
     - **Deliverables:**
-        - Public GitHub Repository Link
-        - README.md in the repo with proposal.
-    - Approval: Instructor will approve projects by start of class on Day 4.
-- **Phase 2:** Data Exploration, Visualization, Preprocessing - **Due Day 6 @ 11:00pm.**
-    - **Deliverables:**
-    - Colab notebook complete with writeup through Data Exploration, Visualization, Preprocessing
-- **Phase 3:** Modeling and Validation - **Due Day 8 @ 11:00pm.**
-    - **Deliverables:**
-    - Colab notebook complete with writeup through Modeling and Validation
-
-- **Phase 4:**  Hyperparameter tuning - **Due Day 10 @ 11:00pm.**
-    - **Deliverables:**
-    - Colab notebook complete with writeup through hyperparameter tuning
-- **Phase 5:**  Writeup - **Due Day 12 @ 11:00pm.**
-    - **Deliverables:**
-    - Final Colab notebook with completed writeup in README.md file
+      - Final Colab notebook with completed code and Final README file with completed writeup
 
 
 ## Requirements
@@ -70,7 +69,7 @@ TBD -- List out requirements for the project here
 1. Requirement 2
 1. Requirement 3
 
-### Stretch Requirements/Challenges (Optional)
+## Stretch Requirements/Challenges (Optional)
 Carry out model interpretability experiments, include in the code repo and include results as part of the writeup
 
 
@@ -79,13 +78,13 @@ TBD -- Link to project rubric placed here
 
 ## Commit Requirements
 
-**All projects will require a minimum of 65 commits, with a minimum of 10 commits per week throughout the entirety of the course**
+All projects will require a minimum of 65 commits, with a minimum of 10 commits per week throughout the entirety of the course
 
-- **Good Example:** 100+ commits throughout the length of the project, looking for a healthy spattering of commits each week (such as 3-5 per day).
-- **Bad Example:** 15 commits on each of five days during the course and no others. Students who do this will be at severe risk of not passing the class.
-- **Unacceptable Example:** 20 commits all in the week before a project is due. Students who do this should not expect to pass the class.
+- Good Example: 100+ commits throughout the length of the project, looking for a healthy spattering of commits each week (such as 3-5 per day).
+- Bad Example: 15 commits on each of five days during the course and no others. Students who do this will be at severe risk of not passing the class.
+- Unacceptable Example:20 commits all in the week before a project is due. Students who do this should not expect to pass the class.
 
-#### Explanation of the continuous commits strategy
+## Explanation of the "continuous commits" strategy
 We want to encourage best practices that you will see working as a professional software engineer.  
 Breaking up a project by doing a large amount of commits helps engineers in the following ways:
 
