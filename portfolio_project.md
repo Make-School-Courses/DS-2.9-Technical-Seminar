@@ -2,14 +2,12 @@
   <a href="https://www.makeschool.com">
       <img alt="Make School Logo" src="./Web/logo-icononly.svg" height="110">
   </a>
-</p># Portfolio Project
+</p>
+
+# Portfolio Project
 
 ## Description
 The goal of this course is for each student to produce their own in-depth, Data Science Portfolio Project.
-Each student will
-- Explore an industry-relevant topic in Data Science in depth
-- Build a working solo portfolio project in their chosen topic area showcasing their Data Science skills
-- Publish the project to a git repo with a complete writeup and a complete record of commits
 
 
 ## Learning Outcomes
@@ -29,15 +27,15 @@ From the day this project is assigned, you will have 6 weeks to complete this pr
 - Classes 1 - 3: Research topics of interest, identify a suitable project
 - Classes 4 - 6: Data exploration, visualization and pre-processing
 - Classes 7 - 8: Modeling and validation:
-  + Select a few appropriate models
-  + Train and evaluate the models
-  + Compare results
+  Select a few appropriate models
+  Train and evaluate the models
+  Compare results
 - Classes 9 - 10
-  + Select the final model
-  + Carry out cross-validation experiments to tune the final model hyperparameters
+  Select the final model
+  Carry out cross-validation experiments to tune the final model hyperparameters
 - Class 11:
-  + Evaluate the Final Model on the test data
-  + Optionally complete model interpretability experiments
+  Evaluate the Final Model on the test data
+  Optionally complete model interpretability experiments
 - Class 12: Complete the project writeup and submit
 - Class 13: Present your project in class
 
@@ -52,17 +50,17 @@ Deadlines of deliverables for the project, broken up by phases. Example given be
     - Approval: Instructor will approve projects by start of class on Day 4.
 - **Phase 2:** Data Exploration, Visualization, Preprocessing - **Due Day 6 @ 11:00pm.**
     - **Deliverables:**
-      + Colab notebook complete with writeup through Data Exploration, Visualization, Preprocessing
+    - Colab notebook complete with writeup through Data Exploration, Visualization, Preprocessing
 - **Phase 3:** Modeling and Validation - **Due Day 8 @ 11:00pm.**
     - **Deliverables:**
-      + Colab notebook complete with writeup through Modeling and Validation
+    - Colab notebook complete with writeup through Modeling and Validation
 
 - **Phase 4:**  Hyperparameter tuning - **Due Day 10 @ 11:00pm.**
     - **Deliverables:**
-      + Colab notebook complete with writeup through hyperparameter tuning
+    - Colab notebook complete with writeup through hyperparameter tuning
 - **Phase 5:**  Writeup - **Due Day 12 @ 11:00pm.**
     - **Deliverables:**
-      + Final Colab notebook with completed writeup in README.md file
+    - Final Colab notebook with completed writeup in README.md file
 
 
 ## Requirements
