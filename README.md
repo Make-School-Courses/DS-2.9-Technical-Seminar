@@ -6,7 +6,6 @@
 
 # DS-2.9 Technical Seminar
 
-
 ## Course Description
 
 The goal of this course is to produce a fantastic, well-documented Data Science Portfolio Project.
@@ -34,11 +33,12 @@ Building a successful portfolio project will transform you into a real Data Scie
 ## Learning Outcomes
 
 By the end of the course, each student will
-1. Explore an industry-relevant topic in Data Science in depth
-1. Build a working portfolio project in their chosen topic area showcasing their Data Science skills
-1. Present weekly project updates to their classmates, so that the class learns from and helps each other 
-1. Publish the project to a git repo with a complete record of commits.
-1. Write a detailed description documenting the project in the README.md file
+
+1. Research and analyze an industry-relevant topic in Data Science
+1. Master the use of state-of-the art python libraries for data exploration, manipulation, visualization, machine learning and/or deep learning, model validation, and hyperparameter tuning
+1. Build a solo portfolio project in an industry-relevant topic that combines skills learned throughout the data science curriculum
+1. Engage in technical discussions around their project and those of their classmates
+1. Demonstrate their understanding of their project by competing a thorough writeup
 
 
 ## Schedule
