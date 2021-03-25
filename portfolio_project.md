@@ -85,7 +85,7 @@ TBD -- Link to project rubric placed here
 - **Bad Example:** 15 commits on each of five days during the course and no others. Students who do this will be at severe risk of not passing the class.
 - **Unacceptable Example:** 20 commits all in the week before a project is due. Students who do this should not expect to pass the class.
 
-### Why are we doing this?
+#### Explanation of the continuous commits strategy
 We want to encourage best practices that you will see working as a professional software engineer.  
 Breaking up a project by doing a large amount of commits helps engineers in the following ways:
 
