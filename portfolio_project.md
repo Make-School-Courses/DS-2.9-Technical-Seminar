@@ -41,24 +41,24 @@ From the day this project is assigned, you will have 6 weeks to complete this pr
 
 
 ## Phases and Deadlines
-Deadlines of deliverables for the project, broken up by phases.
+Deadlines of project deliverables, split into phases.
 
-- **Phase 1:** Proposal - Due Day 3 @ 11:00pm.
-  - Deliverables:
+- **Phase 1: Proposal - Due Day 3 @ 11:00pm**
+  **Deliverables:**
     - Public GitHub Repository Link
     - README.md in the repo with proposal. The README.md file will contain the writeup of your project
   - Approval: Instructor will approve projects by start of class on Day 4.
-- **Phase 2:** Data Exploration, Visualization, Preprocessing - Due Day 6 @ 11:00pm.
-  - **Deliverables:**
-    - Colab notebook with code and README file with writeup, completed through Data Exploration, Visualization, Preprocessing
-- **Phase 3:** Modeling and Validation - Due Day 8 @ 11:00pm.
-  - **Deliverables:**
-    - Colab notebook with code and README file with writeup, completed through Modeling and Validatio
-- **Phase 4:**  Hyperparameter tuning - Due Day 10 @ 11:00pm.
-  - **Deliverables:**
-    - Colab notebook with code and README file with writeup, completed through hyperparameter tuning
-- **Phase 5:**  Writeup - Due Day 12 @ 11:00pm.
-    - **Deliverables:**
+- **Phase 2: Data Exploration, Visualization, Preprocessing - Due Day 6 @ 11:00pm**
+  **Deliverables:**
+    - Colab notebook with code and README file with writeup, completed through Data Exploration, Visualization, Preprocessing phase
+- **Phase 3: Modeling and Validation - Due Day 8 @ 11:00pm**
+  **Deliverables:**
+    - Colab notebook with code and README file with writeup, completed through Modeling and Validation phase
+- **Phase 4: Hyperparameter tuning - Due Day 10 @ 11:00pm**
+  **Deliverables:**
+    - Colab notebook with code and README file with writeup, completed through hyperparameter tuning phase
+- **Phase 5: Writeup - Due Day 12 @ 11:00pm**
+  **Deliverables:**
       - Final Colab notebook with completed code and Final README file with completed writeup
 
 
