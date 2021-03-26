@@ -30,7 +30,7 @@ Your work should be organized along the following schedule
 - Classes 7 - 8: Modeling and validation:  
   - Select a few appropriate models  
   - Train and evaluate the models
-  - Compare results and select the final model
+  - Compare results and select the final (best) model
 - Classes 9 - 10:  
   - Carry out cross-validation experiments to tune the final model hyperparameters
 - Class 11:  
