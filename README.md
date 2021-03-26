@@ -9,7 +9,7 @@
 ## Course Description
 
 The goal of this course is to produce a fantastic, well-documented Data Science Portfolio Project.
-The course is open to Seniors of any concentration who have taken DS-2.1 (Machine Learning)
+The course is open to Seniors of any concentration who have completed  two DS-2.x courses
 
 
 ### Why should I take this course?
@@ -36,9 +36,9 @@ By the end of the course, each student will
 
 1. Research and analyze an industry-relevant topic in Data Science
 1. Master the use of state-of-the art python libraries for data exploration, manipulation, visualization, machine learning and/or deep learning, model validation, and hyperparameter tuning
-1. Build a solo portfolio project in an industry-relevant topic that combines skills learned throughout the data science curriculum
+1. Build a solo portfolio project in an industry-relevant area that combines and draws upon skills learned throughout the data science curriculum
 1. Engage in technical discussions around their project and those of their classmates
-1. Demonstrate their understanding of their project by competing a thorough writeup
+1. Demonstrate their understanding of their project by completing a thorough writeup
 
 
 ## Schedule
