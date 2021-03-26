@@ -27,16 +27,15 @@ Your work should be organized along the following schedule
 
 - Classes 1 - 3: Research topics of interest, identify a suitable project
 - Classes 4 - 6: Data exploration, visualization and pre-processing
-- Classes 7 - 8: Modeling and validation:
-  Select a few appropriate models
-  Train and evaluate the models
-  Compare results
-- Classes 9 - 10
-  Select the final model
-  Carry out cross-validation experiments to tune the final model hyperparameters
-- Class 11:
-  Evaluate the Final Model on the test data
-  Optionally complete model interpretability experiments
+- Classes 7 - 8: Modeling and validation:  
+  - Select a few appropriate models  
+  - Train and evaluate the models
+  - Compare results and select the final model
+- Classes 9 - 10:  
+  - Carry out cross-validation experiments to tune the final model hyperparameters
+- Class 11:  
+  - Evaluate the Final Model on the test data  
+  - Optionally complete model interpretability experiments
 - Class 12: Complete the project code and writeup and submit
 - Class 13: Present your project in class
 
