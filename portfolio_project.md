@@ -43,10 +43,9 @@ Your work will be organized according to the following schedule
 ## Deliverables and Deadlines
 
 - **Phase 1: Proposal - Due Day 3 @ 11:00pm**  
-  Instructor will approve projects by the start of class on Day 4
     - Public GitHub Repository Link
     - README.md in the repo with proposal writeup complete. The README.md file will eventually contain the writeup of your project  
-
+    - Instructor will approve projects by teh start of class on Day 4
 - **Phase 2: Data Exploration, Visualization, Preprocessing - Due on Day 6 @ 11:00pm**
     - Colab notebook with code and README file with writeup, complete through the Data Exploration, Visualization, Preprocessing phase
 - **Phase 3: Modeling and Validation - Due on Day 8 @ 11:00pm**
