@@ -7,7 +7,7 @@
 # Portfolio Project
 
 ## Description
-The goal of this course is for each student to produce their own in-depth, Data Science Portfolio Project.
+The goal of this DS-2.9 Technical Seminar is for each student to produce their own in-depth, Data Science Portfolio Project.
 
 
 ## Learning Outcomes
