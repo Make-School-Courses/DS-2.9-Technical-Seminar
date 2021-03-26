@@ -22,8 +22,8 @@ By completing this project, you should be able to…
 
 ## Schedule
 
-You will have 6 weeks to complete this project.
-Your work should be organized along the following schedule
+You will have 6 weeks to complete this project.  
+Your work will be organized according to the following schedule
 
 - Classes 1 - 3: Research topics of interest, identify a suitable project
 - Classes 4 - 6: Data exploration, visualization and pre-processing
