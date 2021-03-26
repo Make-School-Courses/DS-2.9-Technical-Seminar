@@ -36,7 +36,7 @@ By the end of the course, each student will
 
 1. Research and analyze an industry-relevant topic in Data Science
 1. Master the use of state-of-the art python libraries for data exploration, manipulation, visualization, machine learning and/or deep learning, model validation, and hyperparameter tuning
-1. Build a solo portfolio project in an industry-relevant area that combines and draws upon skills learned throughout the data science curriculum
+1. Build a solo portfolio project in an industry-relevant area that combines skills learned throughout the data science curriculum
 1. Engage in technical discussions around their project and those of their classmates
 1. Demonstrate their understanding of their project by completing a thorough writeup
 
