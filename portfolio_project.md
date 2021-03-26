@@ -26,17 +26,17 @@ You will have 6 weeks to complete this project.
 Your work will be organized according to the following schedule
 
 - Classes 1 - 3: Research topics of interest, identify a suitable project
-- Classes 4 - 6: Data exploration, visualization and pre-processing
-- Classes 7 - 8: Modeling and validation:  
+- Classes 4 - 6: Data Exploration, Visualization and Pre-processing
+- Classes 7 - 8: Modeling and Validation  
   - Select a few appropriate models  
   - Train and evaluate the models
   - Compare results and select the Final (best) Model
-- Classes 9 - 10:  
+- Classes 9 - 10: Hyperparameter Tuning
   - Carry out cross-validation experiments to tune the Final Model hyperparameters
 - Class 11:  
   - Evaluate the Final Model on the test data  
   - Optionally complete model interpretability experiments
-- Class 12: Complete the project code and writeup and submit
+- Class 12: Complete the project code and writeup
 - Class 13: Present your project in class
 
 
@@ -53,7 +53,7 @@ Your work will be organized according to the following schedule
     - Colab notebook with code and README file with writeup, complete through the Modeling and Validation phase
 - **Phase 4: Hyperparameter Tuning - Due on Day 10 @ 11:00pm**
     - Colab notebook with code and README file with writeup, complete through the Hyperparameter Tuning phase
-- **Phase 5: Writeup - Due on Day 12 @ 11:00pm**  
+- **Phase 5: Final Code and Writeup - Due on Day 12 @ 11:00pm**  
     - Final Colab notebook with completed code and Final README file with completed writeup
 - **Phase 6: Presentation - Due on Day 13 in class**
     - Oral presentation delivered to the class
