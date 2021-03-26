@@ -43,19 +43,19 @@ Your work should be organized along the following schedule
 
 ## Deliverables and Deadlines
 
-- **Phase 1: Proposal - Due Day 3 @ 11:00pm**
+- **Phase 1: Proposal - Due Day 3 @ 11:00pm**  
+  Instructor will approve projects by the start of class on Day 4
     - Public GitHub Repository Link
-    - README.md in the repo with proposal.
-    - The README.md file will eventually contain the complete writeup of your project  
-    Instructor will approve projects by the start of class on Day 4
+    - README.md in the repo with proposal writeup complete. The README.md file will eventually contain the writeup of your project  
+
 - **Phase 2: Data Exploration, Visualization, Preprocessing - Due Day 6 @ 11:00pm**
     - Colab notebook with code and README file with writeup, complete through the Data Exploration, Visualization, Preprocessing phase
 - **Phase 3: Modeling and Validation - Due Day 8 @ 11:00pm**
     - Colab notebook with code and README file with writeup, complete through the Modeling and Validation phase
 - **Phase 4: Hyperparameter Tuning - Due Day 10 @ 11:00pm**
     - Colab notebook with code and README file with writeup, complete through the Hyperparameter Tuning phase
-- **Phase 5: Writeup - Due Day 12 @ 11:00pm**
-      - Final Colab notebook with completed code and Final README file with completed writeup
+- **Phase 5: Writeup - Due Day 12 @ 11:00pm**  
+    - Final Colab notebook with completed code and Final README file with completed writeup
 
 
 ## Requirements
