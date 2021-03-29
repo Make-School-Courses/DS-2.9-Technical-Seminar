@@ -15,7 +15,7 @@ By completing this project, you should be able to…
 
 1. Research and analyze an industry-relevant topic in Data Science
 1. Master the use of state-of-the art python libraries for data exploration, manipulation, visualization, machine learning and/or deep learning, model validation, and hyperparameter tuning
-1. Build a solo portfolio project in an industry-relevant topic that combines skills learned throughout the data science curriculum
+1. Build a solo portfolio project in an industry-relevant area that combines skills learned throughout the data science curriculum
 1. Engage in technical discussions around their project and those of their classmates
 1. Demonstrate their understanding of their project by competing a thorough writeup
 
@@ -42,19 +42,20 @@ Your work will be organized according to the following schedule
 
 ## Deliverables and Deadlines
 
-- **Phase 1: Proposal - Due Day 3 @ 11:00pm**  
+- **Milestone 1: Research and Writeup - Due Day 3 @ 11:00pm**  
+    - Instructor will approve projects by the start of class on Day 4
+- **Milestone 2: Project Proposal - Due Day 4 @ 11:00pm**  
     - Public GitHub Repository Link
     - README.md in the repo with proposal writeup complete. The README.md file will eventually contain the writeup of your project  
-    - Instructor will approve projects by teh start of class on Day 4
-- **Phase 2: Data Exploration, Visualization, Preprocessing - Due on Day 6 @ 11:00pm**
+- **Milestone 3: Data Exploration, Visualization, Preprocessing - Due on Day 6 @ 11:00pm**
     - Colab notebook with code and README file with writeup, complete through the Data Exploration, Visualization, Preprocessing phase
-- **Phase 3: Modeling and Validation - Due on Day 8 @ 11:00pm**
+- **Milestone 4: Modeling and Validation - Due on Day 8 @ 11:00pm**
     - Colab notebook with code and README file with writeup, complete through the Modeling and Validation phase
-- **Phase 4: Hyperparameter Tuning - Due on Day 10 @ 11:00pm**
+- **Milestone 5: Hyperparameter Tuning - Due on Day 10 @ 11:00pm**
     - Colab notebook with code and README file with writeup, complete through the Hyperparameter Tuning phase
-- **Phase 5: Final Code and Writeup - Due on Day 12 @ 11:00pm**  
+- **Milestone 6: Final Code and Writeup - Due on Day 12 @ 11:00pm**  
     - Final Colab notebook with completed code and Final README file with completed writeup
-- **Phase 6: Presentation - Due on Day 13 in class**
+- **Milestone 7: Presentation - Due on Day 13 in class**
     - Oral presentation delivered to the class
 
 
@@ -94,6 +95,7 @@ Doing so will allow you to break projects down into smaller milestones that come
 ## Resources
 Additional resources that will help with this project, or that can be used as reference
 
-- [Awesome Data Science 2021
-](https://docs.google.com/document/d/1vGG0Q5t_aVZ6VaSUfDnfnZXlqajFU5Ji-TXAIgpYJT8/edit?usp=sharing)
-- [Cookiecutter Data Science: project structure for doing and sharing data science](https://drivendata.github.io/cookiecutter-data-science/)
+[Topic areas](https://docs.google.com/document/d/1LjzArPRnly7k6HIXkWJ-60c8gv8bL7WrfIDPaMPsjxc/edit?usp=sharing) suggested by a survey of industry hiring managers  
+[DS-2.9 Project Ideas and Resources](https://docs.google.com/document/d/1uRd4yq3cldsfOfad0WgNroIIdcqZvw8t0RZLfvmtMWg/edit?usp=sharing)
+[ML Project checklist](https://github.com/ageron/handson-ml2/blob/master/ml-project-checklist.md)  from Aurélien Geron's [handson-ml2 repo](https://github.com/ageron/handson-ml2)
+[Awesome Data Science 2021](https://docs.google.com/document/d/1vGG0Q5t_aVZ6VaSUfDnfnZXlqajFU5Ji-TXAIgpYJT8/edit?usp=sharing)

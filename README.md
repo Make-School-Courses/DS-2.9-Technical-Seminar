@@ -14,7 +14,7 @@ The course is open to Seniors of any concentration who have completed  two DS-2.
 
 ### Why should I take this course?
 
-Building a successful portfolio project will transform you into a real Data Scientist. You will become an expert on your chosen problem, and along the way you will encounter, struggle with, and learn how to overcome real world problems similar to those you might face at your first job. Your completed project will showcase your skills and demonstrate your ability as a Data Scientist to the world and to prospective employers.
+Building a successful portfolio project will transform you into a real Data Scientist. You will become an expert on your chosen topic area, and along the way you will encounter, struggle with, and learn how to overcome real world problems similar to those you might face at your first job. Your completed project will showcase your skills and demonstrate your ability as a Data Scientist to the world -- and to prospective employers.
 
 
 ## Prerequisites:
@@ -50,26 +50,26 @@ By the end of the course, each student will
 <!-- omit in toc -->
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, Mar 30                | [Lesson 1] |
-|  - |  Thu, Apr 1                 | **No Class - Cesar Chavez** |
-|  2 |  Tue, Apr 6                 | [Lesson 2] |
-|  3 |  Thu, Apr 8                 | [Lesson 3] |
-|  4 |  Tue, Apr 13                | [Lesson 4] |
-|  5 |  Thu, Apr 15                | [Lesson 5] |
-|  6 |  Tue, Apr 20                | [Lesson 6] |
-|  7 |  Thu, Apr 22                | [Lesson 7] |
-|  8 |  Tue, Apr 27                | [Lesson 8] |
-|  9 |  Thu, Apr 29                | [Lesson 9] |
-| 10 |  Tue, May 4                 | [Lesson 10] |
-| 11 |  Thu, May 6                 | [Lesson 11] |
-| 12 |  Tue, May 11                | [Lesson 12] |
-| 13 |  Thu, May 13                | Final Exam/Presentations |
+|  1 |  Tue, Mar 30                | [Lesson 1] -- Course intro: selecting a portfolio project |||
+|  - |  Thu, Apr 1                 | **No Class - Cesar Chavez** |||
+|  2 |  Tue, Apr 6                 | [Lesson 2] -- Data Exploration and Visualization | Challenge or Quiz ||
+|  3 |  Thu, Apr 8                 | [Lesson 3] -- Data Cleaning, Feature Engineering and Preprocessing| Milestone 1: Research and Writeup due|
+|  4 |  Tue, Apr 13                | [Lesson 4] -- ML algorithms | Challenge or Quiz | Milestone 2: Project Proposal Due|
+|  5 |  Thu, Apr 15                | [Lesson 5] -- ML algorithms | Challenge or Quiz ||
+|  6 |  Tue, Apr 20                | [Lesson 6] -- DL algorithms | Challenge or Quiz | Milestone 3: Data Exploration, Visualization, Preprocessing Due|
+|  7 |  Thu, Apr 22                | [Lesson 7] -- DL algorithms | Challenge or Quiz ||
+|  8 |  Tue, Apr 27                | [Lesson 8] --  Model Training & Hyperparameter Tuning] |Challenge or Quiz |Milestone 4: Modeling and Validation Due|
+|  9 |  Thu, Apr 29                | [Lesson 9] --  Model Training & hyperparameter Tuning | Challenge or Quiz ||
+| 10 |  Tue, May 4                 | [Lesson 10] -- Model Training & Hyperparameter Tuning| Challenge or Quiz |Milestone 5: Hyperparameter Tuning Due|
+| 11 |  Thu, May 6                 | [Lesson 11] -- Model Selection and Validation | Challenge or Quiz ||
+| 12 |  Tue, May 11                | Lab Day |||Milestone 6: Final Code and Writeup due|
+| 13 |  Thu, May 13                | Project Presentations |||
 <!-- tabs:end -->
 
 
 ## Lessons
 
-[Lesson 1]: Lessons/Lesson1.md
+[Lesson 1]: https://docs.google.com/presentation/d/10-5Jm33lg4G8M5qDUJkQeyF9FmMl4rTAF-oOQ72TwnM/edit?usp=sharing
 [Lesson 2]: Lessons/Lesson2.md
 [Lesson 3]: Lessons/Lesson3.md
 [Lesson 4]: Lessons/Lesson4.md
@@ -80,8 +80,6 @@ By the end of the course, each student will
 [Lesson 9]: Lessons/Lesson9.md
 [Lesson 10]: Lessons/Lesson10.md
 [Lesson 11]: Lessons/Lesson11.md
-[Lesson 12]: Lessons/Lesson12.md
-[Lesson 13]: Lessons/Lesson13.md
 
 
 ## Assignment Submissions
@@ -95,7 +93,7 @@ Your Gradescope login is your Make School email, and your password can be change
 
 ### The Portfolio Project
 
-- [Project Description](http://localhost:8890/notebooks/DS-2.9-Technical-Seminar/portfolio_project.md)
+- [Project Description](https://github.com/Make-School-Courses/DS-2.9-Technical-Seminar/blob/master/portfolio_project.md)
 - Students can optionally add value to their portfolio project by writing a blog article and publishing in [Medium](https://medium.com/), [Towards Data Science](https://towardsdatascience.com/), [Analytics Vidhya](https://www.analyticsvidhya.com/), [KDnuggets](https://www.kdnuggets.com/), or another suitable online magazine.
 
 
@@ -109,6 +107,16 @@ To pass this course you must meet the following requirements:
 - Actively participate in class and abide by the [Attendance Policy](https://make.sc/attendance-policy)
 - Make up classwork from all absences
 
+## Grade Determination
+Grade is composed of Project Milestones and In-class Assignments and Quizzes as follows
+- Milestone 1: 10 points
+- Milestone 3: 10 points
+- Milestone 4: 10 points
+- Milestone 5: 10 points
+- Milestone 6: 40 points
+- Milestone 7: 10 points
+- In-class Assignments and Quizzes: 50 points
+- To pass the course, a student must get at least 70/100 on the Milestones and at least 35/50 on the in-class Assignments and Quizzes. The worst quiz score will be dropped
 
 ## Data Science Technical Interview Topics Covered in this course
 
