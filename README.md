@@ -50,7 +50,7 @@ By the end of the course, each student will
 <!-- omit in toc -->
 | Class |          Date          |                 Topics                  |                                         |
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
-|  1 |  Tue, Mar 30                | [Lesson 1] -- Course intro: selecting a portfolio project ||
+|  1 |  Tue, Mar 30                | [Lesson 1] -- Course introduction. Selecting a portfolio project ||
 |  - |  Thu, Apr 1                 | **No Class - Cesar Chavez** |||
 |  2 |  Tue, Apr 6                 | [Lesson 2] -- Data Exploration and Visualization ||
 |  3 |  Thu, Apr 8                 | [Lesson 3] -- Data Cleaning, Feature Engineering and Preprocessing| Milestone 1: Research and Writeup due|
@@ -59,7 +59,7 @@ By the end of the course, each student will
 |  6 |  Tue, Apr 20                | [Lesson 6] -- DL algorithms | Milestone 3: Data Exploration, Visualization, Preprocessing Due|
 |  7 |  Thu, Apr 22                | [Lesson 7] -- DL algorithms ||
 |  8 |  Tue, Apr 27                | [Lesson 8] --  Model Training & Hyperparameter Tuning] |Milestone 4: Modeling and Validation Due|
-|  9 |  Thu, Apr 29                | [Lesson 9] --  Model Training & hyperparameter Tuning | |
+|  9 |  Thu, Apr 29                | [Lesson 9] --  Model Training & hyperparameter Tuning ||
 | 10 |  Tue, May 4                 | [Lesson 10] -- Model Training & Hyperparameter Tuning| Milestone 5: Hyperparameter Tuning Due|
 | 11 |  Thu, May 6                 | [Lesson 11] -- Model Selection and Validation ||
 | 12 |  Tue, May 11                | Lab Day |Milestone 6: Final Code and Writeup due|
@@ -99,24 +99,24 @@ Your Gradescope login is your Make School email, and your password can be change
 
 ## Evaluation
 
-To pass this course you must meet the following requirements:
+Grade is composed of Project Milestones and In-class Quizzes, as follows:
 
-- Complete the Portfolio Project with a passing grade according to the associated rubric
-- Complete all required Assignments and Quizzes with a passing grade
-- One Quiz or Assignment may be dropped
-- Actively participate in class and abide by the [Attendance Policy](https://make.sc/attendance-policy)
-- Make up classwork from all absences
-
-## Grade Determination
-Grade is composed of Project Milestones and In-class Assignments and Quizzes as follows
 - Milestone 1: 10 points
+- Milestone 2: 10 points
 - Milestone 3: 10 points
 - Milestone 4: 10 points
 - Milestone 5: 10 points
 - Milestone 6: 40 points
 - Milestone 7: 10 points
-- In-class Assignments and Quizzes: 50 points
-- To pass the course, a student must get at least 70/100 on the Milestones and at least 35/50 on the in-class Assignments and Quizzes. The worst quiz score will be dropped
+- In-class Quizzes: 50 points
+
+To pass this course you must meet the following requirements:
+- Complete **each** of the 7 Portfolio Project Milestones with a passing grade (i.e. 70%) according to the associated rubric
+- Project Milestones that are not passed on the first attempt may be re-submitted within a week of the original due date for a second try, at a cost of 10% of the score. I.e., a re-submitted 10 point Milestone can only get a maximum score of 9 points. There is no third try.
+- Complete Quizzes with an overall passing grade (i.e. 70% the Quiz points, after the worst quiz is dropped). No re-tries for quizzes.
+- Actively participate in class and abide by the [Attendance Policy](https://make.sc/attendance-policy)
+- Make up classwork from all absences
+
 
 ## Data Science Technical Interview Topics Covered in this course
 
