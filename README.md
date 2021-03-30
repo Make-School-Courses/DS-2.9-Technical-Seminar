@@ -112,8 +112,8 @@ Grade is composed of Project Milestones and In-class Quizzes, as follows:
 
 To pass this course you must meet the following requirements:
 - Complete **each** of the 7 Portfolio Project Milestones with a passing grade (i.e. 70%) according to the associated rubric
-- Project Milestones that are not passed on the first attempt may be re-submitted within a week of the original due date for a second try, at a cost of 10% of the score. I.e., a re-submitted 10 point Milestone can only get a maximum score of 9 points. There is no third try.
-- Complete Quizzes with an overall passing grade (i.e. 70% the Quiz points, after the worst quiz is dropped). No re-tries for quizzes.
+- Project Milestones that are not passed on the first attempt may be re-submitted within a week of the original due date for a second try, at a cost of 10% of the score. I.e., a re-submitted 10 point Milestone can get a maximum score of 9 points. There is no third try.
+- Complete Quizzes with an overall passing grade (i.e. 70% of all the Quiz points, after the worst quiz is dropped). No re-tries for Quizzes.
 - Actively participate in class and abide by the [Attendance Policy](https://make.sc/attendance-policy)
 - Make up classwork from all absences
 
