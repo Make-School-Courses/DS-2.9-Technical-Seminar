@@ -48,22 +48,22 @@ By the end of the course, each student will
 **Class Times:** Tuesday and Thursday at 2:45–5:30pm (13 class sessions)
 <!-- tabs:start -->
 <!-- omit in toc -->
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, Mar 30                | [Lesson 1]| -- Course intro: selecting a portfolio project |||
-|  - |  Thu, Apr 1                 | **No Class - Cesar Chavez** ||||
-|  2 |  Tue, Apr 6                 | [Lesson 2]| -- Data Exploration and Visualization | Challenge or Quiz ||
-|  3 |  Thu, Apr 8                 | [Lesson 3]| -- Data Cleaning, Feature Engineering and Preprocessing| Milestone 1: Research and Writeup due|
-|  4 |  Tue, Apr 13                | [Lesson 4]| -- ML algorithms | Challenge or Quiz | Milestone 2: Project Proposal Due|
-|  5 |  Thu, Apr 15                | [Lesson 5]| -- ML algorithms | Challenge or Quiz ||
-|  6 |  Tue, Apr 20                | [Lesson 6]| -- DL algorithms | Challenge or Quiz | Milestone 3: Data Exploration, Visualization, Preprocessing Due|
-|  7 |  Thu, Apr 22                | [Lesson 7]| -- DL algorithms | Challenge or Quiz ||
-|  8 |  Tue, Apr 27                | [Lesson 8]| --  Model Training & Hyperparameter Tuning] |Challenge or Quiz |Milestone 4: Modeling and Validation Due|
-|  9 |  Thu, Apr 29                | [Lesson 9]| --  Model Training & hyperparameter Tuning | Challenge or Quiz ||
-| 10 |  Tue, May 4                 | [Lesson 10]| -- Model Training & Hyperparameter Tuning| Challenge or Quiz |Milestone 5: Hyperparameter Tuning Due|
-| 11 |  Thu, May 6                 | [Lesson 11]| -- Model Selection and Validation | Challenge or Quiz ||
-| 12 |  Tue, May 11                | Lab Day |||Milestone 6: Final Code and Writeup due|
-| 13 |  Thu, May 13                | Project Presentations |||
+| Class |          Date          |                 Topics                  |                                         |
+|:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
+|  1 |  Tue, Mar 30                | [Lesson 1] -- Course intro: selecting a portfolio project ||
+|  - |  Thu, Apr 1                 | **No Class - Cesar Chavez** |||
+|  2 |  Tue, Apr 6                 | [Lesson 2] -- Data Exploration and Visualization ||
+|  3 |  Thu, Apr 8                 | [Lesson 3] -- Data Cleaning, Feature Engineering and Preprocessing| Milestone 1: Research and Writeup due|
+|  4 |  Tue, Apr 13                | [Lesson 4] -- ML algorithms | Milestone 2: Project Proposal Due|
+|  5 |  Thu, Apr 15                | [Lesson 5] -- ML algorithms ||
+|  6 |  Tue, Apr 20                | [Lesson 6] -- DL algorithms | Milestone 3: Data Exploration, Visualization, Preprocessing Due|
+|  7 |  Thu, Apr 22                | [Lesson 7] -- DL algorithms ||
+|  8 |  Tue, Apr 27                | [Lesson 8] --  Model Training & Hyperparameter Tuning] |Milestone 4: Modeling and Validation Due|
+|  9 |  Thu, Apr 29                | [Lesson 9] --  Model Training & hyperparameter Tuning | |
+| 10 |  Tue, May 4                 | [Lesson 10] -- Model Training & Hyperparameter Tuning| Milestone 5: Hyperparameter Tuning Due|
+| 11 |  Thu, May 6                 | [Lesson 11] -- Model Selection and Validation ||
+| 12 |  Tue, May 11                | Lab Day |Milestone 6: Final Code and Writeup due|
+| 13 |  Thu, May 13                | Project Presentations |Milestone 7: Oral Presentations|
 <!-- tabs:end -->
 
 
