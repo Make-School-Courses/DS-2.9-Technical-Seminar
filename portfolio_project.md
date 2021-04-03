@@ -95,7 +95,7 @@ Doing so will allow you to break projects down into smaller milestones that come
 ## Resources
 Additional resources that will help with this project, or that can be used as reference
 
-[Topic areas](https://docs.google.com/document/d/1LjzArPRnly7k6HIXkWJ-60c8gv8bL7WrfIDPaMPsjxc/edit?usp=sharing) suggested by a survey of industry hiring managers  
-[DS-2.9 Project Ideas and Resources](https://docs.google.com/document/d/1uRd4yq3cldsfOfad0WgNroIIdcqZvw8t0RZLfvmtMWg/edit?usp=sharing)
-[ML Project checklist](https://github.com/ageron/handson-ml2/blob/master/ml-project-checklist.md)  from Aurélien Geron's [handson-ml2 repo](https://github.com/ageron/handson-ml2)
-[Awesome Data Science 2021](https://docs.google.com/document/d/1vGG0Q5t_aVZ6VaSUfDnfnZXlqajFU5Ji-TXAIgpYJT8/edit?usp=sharing)
+* [Topic areas](https://docs.google.com/document/d/1LjzArPRnly7k6HIXkWJ-60c8gv8bL7WrfIDPaMPsjxc/edit?usp=sharing) suggested by a survey of industry hiring managers  
+* [DS-2.9 Project Ideas and Resources](https://docs.google.com/document/d/1uRd4yq3cldsfOfad0WgNroIIdcqZvw8t0RZLfvmtMWg/edit?usp=sharing)
+* [ML Project checklist](https://github.com/ageron/handson-ml2/blob/master/ml-project-checklist.md)  from Aurélien Geron's [handson-ml2 repo](https://github.com/ageron/handson-ml2)
+* [Awesome Data Science 2021](https://docs.google.com/document/d/1vGG0Q5t_aVZ6VaSUfDnfnZXlqajFU5Ji-TXAIgpYJT8/edit?usp=sharing)
