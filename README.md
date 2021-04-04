@@ -94,6 +94,7 @@ Your Gradescope login is your Make School email, and your password can be change
 ### The Portfolio Project
 
 - [Project Description](https://github.com/Make-School-Courses/DS-2.9-Technical-Seminar/blob/master/portfolio_project.md)
+- [Project Rubric](https://docs.google.com/document/d/1y1Pt7DkrWeSmoxqHpHdN2eFl2XBYV9EJFGELUn3uK_g/edit?usp=sharing)
 - Students can optionally add value to their portfolio project by writing a blog article and publishing in [Medium](https://medium.com/), [Towards Data Science](https://towardsdatascience.com/), [Analytics Vidhya](https://www.analyticsvidhya.com/), [KDnuggets](https://www.kdnuggets.com/), or another suitable online magazine.
 
 
